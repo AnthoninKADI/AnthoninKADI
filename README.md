@@ -1,7 +1,7 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />, I'm <a href="https://www.linkedin.com/in/anthonin-kadi/" rel="nofollow">Anthonin </a> |  My Itchio <a href="https://anthoninkadi.itch.io/" rel="nofollow"> Here </a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29" height="29" />
 
 ## About Me 🚀
-🎓 I am a fourth-year student at ARTFX, specializing in Game Programming. Passionate about video game development, I focus primarily on creating interactive elements and game mechanics that enhance the user experience. My goal is to design innovative and functional systems that allow players to engage in immersive and captivating experiences.
+🎓 My name is Anthonin, and I am 21 years old. I am a fourth-year student at ARTFX, specializing in Game Programming. Passionate about video game development, I focus primarily on creating interactive elements and game mechanics that enhance the user experience. My goal is to design innovative and functional systems that allow players to engage in immersive and captivating experiences.
 
 I believe that programming is a powerful tool for turning ideas into reality and solving complex challenges. My approach is centered around efficiency, code quality, and innovation. I am always motivated to learn new techniques, refine my skills, and provide creative solutions to technical problems.
 <br/>
@@ -31,10 +31,9 @@ I believe that programming is a powerful tool for turning ideas into reality and
 </a>
 </ul>
 
-<p>
-  <!--Stats -->
-  <img width=500 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnthoninKADI&hide=issues&show_icons=true&theme=github_dark&rank_icon=github" />
-  <!--Languages -->
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthoninKADI&size_weight=0.5&count_weight=0.5&theme=github_dark&layout=compact&langs_count=6" />
-</p>
+## 🏆 Achievements & Contributions
 
+<div align="center">
+  <a href="#"><img alt="Anthonin's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthoninKADI&theme=modern-lilac2&hide_border=true&background=0D1117&stroke=5ce1e6" height="200"/></a>
+  <br/>
+</div>
