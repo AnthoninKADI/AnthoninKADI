@@ -2,8 +2,6 @@
 
 ## About Me 🚀
 🎓 My name is Anthonin, and I am 21 years old. I am a fourth-year student at ARTFX, specializing in Game Programming. Passionate about video game development, I focus primarily on creating interactive elements and game mechanics that enhance the user experience. My goal is to design innovative and functional systems that allow players to engage in immersive and captivating experiences.
-
-I believe that programming is a powerful tool for turning ideas into reality and solving complex challenges. My approach is centered around efficiency, code quality, and innovation. I am always motivated to learn new techniques, refine my skills, and provide creative solutions to technical problems.
 <br/>
 
 ## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;">
