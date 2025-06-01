@@ -29,9 +29,3 @@
 </a>
 </ul>
 
-## Contributions
-
-<div align="center">
-  <a href="#"><img alt="Anthonin's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthoninKADI&theme=modern-lilac2&hide_border=true&background=0D1117&stroke=5ce1e6" height="200"/></a>
-  <br/>
-</div>
