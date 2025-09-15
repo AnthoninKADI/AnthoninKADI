@@ -8,24 +8,20 @@
 
 - **Programming Languages**
 <ul>
-<a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp"/>
-</a>
 </ul>
 
 - **Game Engine / Tools**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" alt="Unreal Engine"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="Unity"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio"/>
-</a>
-</ul>
+<div>
+<img height="35" width="50" style="padding-right:20px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" alt="Unreal Engine"/>
+<img height="35" width="50" style="padding-right:20px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="Unity"/>
+<img height="35" width="50" style="padding-right:20px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio"/>
+<img height="35" width="35" style="margin-right:100px;" src="https://www.briandelange.nl/Images/P4V.png" alt="Perforce"/>
+<img height="35" width="35" style="padding-left:100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/2048px-JetBrains_Rider_Icon.svg.png" alt="Rider"/>
+<img height="50" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGl"/>
+<img height="50" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vulkan/vulkan-original.svg" alt="Vulkan"/>
+<img height="50" width="40px" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GitHub Desktop"/>
+<img height="50" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+</div>
 
